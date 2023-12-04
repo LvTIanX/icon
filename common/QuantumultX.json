@@ -1,0 +1,102 @@
+{
+    "name": "个人常用图标包",
+    "description": "By TinySky🅥",
+    "icons": [
+        {
+        "name": "Apple",
+            "url": "https:\/\/raw.githubusercontent.com\/LvTIanX\/icon\/main\/common\/apple.png"
+        },
+        {
+        "name": "谷歌",
+            "url": "https:\/\/raw.githubusercontent.com\/LvTIanX\/icon\/main\/common\/Google.png"
+        },
+        {
+        "name": "网易云音乐",
+            "url": "https:\/\/raw.githubusercontent.com\/LvTIanX\/icon\/main\/common\/NetEaseMusic.png"
+        },
+        {
+        "name": "Netflix",
+            "url": "https:\/\/raw.githubusercontent.com\/LvTIanX\/icon\/main\/common\/Netflix.png"
+        },
+        {
+        "name": "Speedtest",
+            "url": "https:\/\/raw.githubusercontent.com\/LvTIanX\/icon\/main\/common\/Speedtest.png"
+        },
+        {
+        "name": "流媒体",
+            "url": "https:\/\/raw.githubusercontent.com\/LvTIanX\/icon\/main\/common\/Streaming.png"
+        },
+        {
+        "name": "数字货币",
+            "url": "https:\/\/raw.githubusercontent.com\/LvTIanX\/icon\/main\/common\/digital_currency.png"
+        },
+        {
+        "name": "邮箱",
+            "url": "https:\/\/raw.githubusercontent.com\/LvTIanX\/icon\/main\/common\/email.png"
+        },
+        {
+        "name": "鱼",
+            "url": "https:\/\/raw.githubusercontent.com\/LvTIanX\/icon\/main\/common\/fishe.png"
+        },
+        {
+        "name": "instagram",
+            "url": "https:\/\/raw.githubusercontent.com\/LvTIanX\/icon\/main\/common\/instagram.png"
+        },
+        {
+        "name": "闪电",
+            "url": "https:\/\/raw.githubusercontent.com\/LvTIanX\/icon\/main\/common\/lightning.png"
+        },
+        {
+        "name": "微软",
+            "url": "https:\/\/raw.githubusercontent.com\/LvTIanX\/icon\/main\/common\/microsoft.png"
+        },
+        {
+        "name": "paypal",
+            "url": "https:\/\/raw.githubusercontent.com\/LvTIanX\/icon\/main\/common\/paypal.png"
+        },
+        {
+        "name": "飞机",
+            "url": "https:\/\/raw.githubusercontent.com\/LvTIanX\/icon\/main\/common\/planes.png"
+        },
+        {
+        "name": "地球",
+            "url": "https:\/\/raw.githubusercontent.com\/LvTIanX\/icon\/main\/common\/plant.png"
+        },
+        {
+        "name": "pronhub",
+            "url": "https:\/\/raw.githubusercontent.com\/LvTIanX\/icon\/main\/common\/pronhub.png"
+        },
+        {
+        "name": "spotify",
+            "url": "https:\/\/raw.githubusercontent.com\/LvTIanX\/icon\/main\/common\/spotify.png"
+        },
+        {
+        "name": "tiktok",
+            "url": "https:\/\/raw.githubusercontent.com\/LvTIanX\/icon\/main\/common\/tiktok.png"
+        },
+        {
+        "name": "升级",
+            "url": "https:\/\/raw.githubusercontent.com\/LvTIanX\/icon\/main\/common\/upgrade.png"
+        },
+        {
+        "name": "youtube",
+            "url": "https:\/\/raw.githubusercontent.com\/LvTIanX\/icon\/main\/common\/youtube.png"
+        },
+        {
+        "name": "广告",
+            "url": "https:\/\/raw.githubusercontent.com\/LvTIanX\/icon\/main\/common\/ADBlock.png"
+        },
+        {
+        "name": "电影",
+            "url": "https:\/\/raw.githubusercontent.com\/LvTIanX\/icon\/main\/common\/Movies.png"
+        },
+        {
+        "name": "steam",
+            "url": "https:\/\/raw.githubusercontent.com\/LvTIanX\/icon\/main\/common\/steam.png"
+        },
+        {
+        "name": "电报",
+            "url": "https:\/\/raw.githubusercontent.com\/LvTIanX\/icon\/main\/common\/telegram.png"
+        }
+    ]
+}
