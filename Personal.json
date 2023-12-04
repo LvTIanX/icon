@@ -1,0 +1,10 @@
+{
+    "name": "个人常用图标包",
+    "description": "By TinySky🅥",
+    "icons": [
+        {
+        "name": "Apple",
+            "url": "https://raw.githubusercontent.com/LvTIanX/icon/main/common/apple.png"
+        }
+    ]
+}
