@@ -81,6 +81,22 @@
         {
         "name": "youtube",
             "url": "https://raw.githubusercontent.com/LvTIanX/icon/main/common/youtube.png"
+        },
+        {
+        "name": "广告",
+            "url": "https://raw.githubusercontent.com/LvTIanX/icon/main/common/ADBlock.png"
+        },
+        {
+        "name": "电影",
+            "url": "https://raw.githubusercontent.com/LvTIanX/icon/main/common/Movies.png"
+        },
+        {
+        "name": "steam",
+            "url": "https://raw.githubusercontent.com/LvTIanX/icon/main/common/steam.png"
+        },
+        {
+        "name": "电报",
+            "url": "https://raw.githubusercontent.com/LvTIanX/icon/main/common/telegram.png"
         }
     ]
 }
